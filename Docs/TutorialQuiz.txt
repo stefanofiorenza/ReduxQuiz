@@ -1,0 +1,24 @@
+
+
+
+Questions: [
+	{	"id":123,
+		"question": "example question", 
+		"answers":[
+			{"text":"a Possible Response", "symbol": "A"},
+			{"text":"a Possible Response", "symbol": "B"}
+			{"text":"a Possible Response", "symbol": "C"}
+			{"text":"a Possible Response", "symbol": "D"}
+			{"text":"a Possible Response", "symbol": "E"}	
+		]
+	}
+]
+
+Outcome:{
+	"qid":123,
+	"answer":"A"
+}
+
+- QuestionPage
+- ReportPage
+- Manage
